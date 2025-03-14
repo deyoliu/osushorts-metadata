@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = metadata
-build_property.ProjectDir = C:\Users\me\Desktop\metadata\metadata\metadata\
+build_property.ProjectDir = C:\Users\me\Desktop\osushorts-metadata\metadata\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
