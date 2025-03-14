@@ -1,0 +1,5 @@
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Release\net8.0-windows\publish\metadata.exe
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Release\net8.0-windows\publish\metadata.dll
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Release\net8.0-windows\publish\metadata.deps.json
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Release\net8.0-windows\publish\metadata.runtimeconfig.json
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Release\net8.0-windows\publish\metadata.pdb

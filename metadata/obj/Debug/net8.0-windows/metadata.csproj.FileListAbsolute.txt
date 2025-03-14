@@ -1,0 +1,16 @@
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Debug\net8.0-windows\metadata.exe
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Debug\net8.0-windows\metadata.deps.json
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Debug\net8.0-windows\metadata.runtimeconfig.json
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Debug\net8.0-windows\metadata.dll
+C:\Users\me\Desktop\metadata\metadata\metadata\bin\Debug\net8.0-windows\metadata.pdb
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.Form1.resources
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.csproj.GenerateResource.cache
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.AssemblyInfo.cs
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.dll
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\refint\metadata.dll
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.pdb
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\metadata.genruntimeconfig.cache
+C:\Users\me\Desktop\metadata\metadata\metadata\obj\Debug\net8.0-windows\ref\metadata.dll
